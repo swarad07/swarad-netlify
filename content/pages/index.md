@@ -119,7 +119,7 @@ sections:
         - name: 'City, Country'
           label: 'City, Country'
           hideLabel: true
-          placeholder: Address
+          placeholder: 'City, Country'
           isRequired: true
           width: 1/2
           type: TextFormControl
