@@ -117,7 +117,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: 'City, Country'
-          label: Address
+          label: 'City, Country'
           hideLabel: true
           placeholder: Address
           isRequired: true
