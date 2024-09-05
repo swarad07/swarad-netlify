@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "I’m a Software Engineer, Manager,\_ Mechanic & other impressive titles."
+    title: 'I’m a Software Engineer, Mechanic & other impressive titles.'
     subtitle: >-
       This is my personal scratchpad, do look around. Reach out for a friendly
       chat....
