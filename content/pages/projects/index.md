@@ -110,7 +110,7 @@ topSections:
         width: narrow
         padding:
           - pt-20
-          - pb-20
+          - pb-24
           - pl-4
           - pr-4
         justifyContent: center
