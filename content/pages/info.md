@@ -134,7 +134,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/swarad07'
         styles:
           self:
             textAlign: left
