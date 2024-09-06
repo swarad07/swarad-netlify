@@ -133,4 +133,31 @@ topSections:
         textAlign: left
       actions:
         justifyContent: center
+  - type: QuoteSection
+    quote: >
+      "The path to the CEO's office should not be through the CFO's office, and
+      it should not be through the marketing department. It needs to be through
+      engineering and design." \~ Elon Musk
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
 ---
