@@ -157,7 +157,7 @@ sections:
     subtitle: 'Experiments:'
     actions:
       - type: Link
-        label: See all projects
+        label: See all experiments
         altText: See all projects
         url: /projects
         showIcon: false
