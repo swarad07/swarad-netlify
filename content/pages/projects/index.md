@@ -100,7 +100,7 @@ topSections:
     quote: >
       *"The important thing is to never stop questioning. Curiosity has its own
       reason for existing."*
-    name: '- Elon Musk'
+    name: Albert Einstein
     title: ''
     colors: colors-f
     elementId: ''
