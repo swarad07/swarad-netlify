@@ -139,7 +139,7 @@ topSections:
       it should not be through the marketing department. It needs to be through
       engineering and design." \~ Elon Musk
     name: Elon Musk
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
