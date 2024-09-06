@@ -98,9 +98,8 @@ bottomSections:
 topSections:
   - type: QuoteSection
     quote: >
-      "The path to the CEO's office should not be through the CFO's office, and
-      it should not be through the marketing department. It needs to be through
-      engineering and design."
+      *"The important thing is to never stop questioning. Curiosity has its own
+      reason for existing."*
     name: '- Elon Musk'
     title: ''
     colors: colors-f
