@@ -154,7 +154,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Experiments:'
     actions:
       - type: Link
         label: See all projects
