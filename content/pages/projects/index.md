@@ -12,7 +12,7 @@ backgroundImage:
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
-  showDate: false
+  showDate: true
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
