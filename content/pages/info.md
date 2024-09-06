@@ -18,7 +18,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/PXL_20240816_155047001~2.jpeg
       altText: Hero image
     styles:
       self:
