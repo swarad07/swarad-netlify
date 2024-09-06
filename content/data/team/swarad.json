@@ -1,0 +1,14 @@
+{
+    "type": "Person",
+    "firstName": "Swarad",
+    "lastName": "Mokal",
+    "role": "",
+    "bio": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/PXL_20240816_155047001~2.jpeg",
+        "altText": "Person photo",
+        "caption": "Caption of the image",
+        "elementId": ""
+    }
+}
