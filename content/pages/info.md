@@ -23,7 +23,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -47,54 +47,7 @@ sections:
   - type: DividerSection
     styles:
       self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
+        width: narrow
         padding:
           - pt-8
           - pb-8
@@ -136,7 +89,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-8
           - pb-8
@@ -155,7 +108,7 @@ sections:
   - type: DividerSection
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-12
           - pb-12
@@ -170,10 +123,13 @@ sections:
     colors: colors-f
     text: |
       <swarad07@gmail.com>
+    styles:
+      self:
+        width: narrow
   - type: DividerSection
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-8
           - pb-8
